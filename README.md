@@ -1,5 +1,5 @@
-<table>
-<tr><td valign="top" width="50%">
+<table style="border: none;">
+<tr style="border: none;"><td valign="top" width="50%" style="border: none;">
 
 ### Latest projects
 
@@ -10,10 +10,11 @@
 * [Nobots](https://github.com/Xumeiquer/nobots)
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" style="border: none;">
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M625UW0)
-
+</td>
+</tr>
 </table>
 
 <!--
