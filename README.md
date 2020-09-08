@@ -18,7 +18,7 @@
 </table>
 -->
 
-You can buy me a coffee [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M625UW0)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M625UW0)
 
 <!--
 **Xumeiquer/Xumeiquer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
