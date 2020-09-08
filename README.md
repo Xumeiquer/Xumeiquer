@@ -1,4 +1,4 @@
-<table style="border: none;">
+<table border="0">
 <tr style="border: none;"><td valign="top" width="50%" style="border: none;">
 
 ### Latest projects
